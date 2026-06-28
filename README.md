@@ -2,6 +2,9 @@
 
 A modern, responsive website for a dental clinic built with HTML, CSS, and JavaScript.
 
+## 🌐 Live Demo
+👉 **[Click Here to View the Live Website](https://dentalcare-redesign.netlify.app/)**
+
 ## 📋 Table of Contents
 - [About](#about)
 - [Features](#features)
